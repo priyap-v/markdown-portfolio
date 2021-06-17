@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# List of My Favorite things
+  - Pencils
+  - Paints
+  - Design
+  - Ice Cream
